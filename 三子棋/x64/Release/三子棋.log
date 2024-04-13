@@ -1,0 +1,11 @@
+﻿  game.c
+C:\Users\罗旺\source\VS项目\三子棋\game.c(93,1): warning C4029: 声明的形参表不同于定义
+  三子棋主.c
+C:\Users\罗旺\source\VS项目\三子棋\三子棋主.c(31,17): warning C4020: “computer”: 实参太多
+C:\Users\罗旺\source\VS项目\三子棋\三子棋主.c(87,2): warning C4550: 表达式计算为缺少参数列表的函数
+  正在生成代码
+  4 of 16 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  三子棋.vcxproj -> C:\Users\罗旺\source\VS项目\三子棋\x64\Release\三子棋.exe

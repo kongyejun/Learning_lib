@@ -1,0 +1,4 @@
+﻿  三子棋主.c
+C:\Users\罗旺\source\repos\三子棋\三子棋主.c(27,17): warning C4020: “computer”: 实参太多
+C:\Users\罗旺\source\repos\三子棋\三子棋主.c(82,2): warning C4550: 表达式计算为缺少参数列表的函数
+  三子棋.vcxproj -> C:\Users\罗旺\source\repos\三子棋\x64\Debug\三子棋.exe

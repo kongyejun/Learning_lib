@@ -1,0 +1,2 @@
+C:\Users\罗旺\source\repos\三子棋\x64\Release\三子棋.exe
+C:\Users\罗旺\source\VS项目\三子棋\x64\Release\三子棋.exe
