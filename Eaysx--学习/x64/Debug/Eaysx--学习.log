@@ -1,0 +1,6 @@
+﻿  Eaysx--练习.cpp
+C:\Users\罗旺\source\repos\Eaysx--学习\Eaysx--练习.cpp(444,1): warning C4010: 单行注释包含行继续符
+C:\Users\罗旺\source\repos\Eaysx--学习\Eaysx--练习.cpp(445,1): warning C4010: 单行注释包含行继续符
+C:\Users\罗旺\source\repos\Eaysx--学习\Eaysx--练习.cpp(348,48): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\罗旺\source\repos\Eaysx--学习\Eaysx--练习.cpp(349,47): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Eaysx--学习.vcxproj -> C:\Users\罗旺\source\repos\Eaysx--学习\x64\Debug\Eaysx--学习.exe
