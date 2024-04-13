@@ -6,4 +6,4 @@
 ## 三子棋游戏：  
 在Microsoft Visual Studio软件上实现  
 ## 学生管理系统：   
-在VScode软件实现
+文件：student_table.c在VScode软件实现
