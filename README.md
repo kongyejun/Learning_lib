@@ -8,5 +8,5 @@ Exary官方文档地址:https://docs.easyx.cn/zh-cn/intro
 在Microsoft Visual Studio软件上实现  
 ## 学生管理系统：   
 文件：student_table.c在VScode软件实现
-## 贪吃蛇代码:
+## 贪吃蛇:
 文件: Snakes_code.c在VScode可运行
